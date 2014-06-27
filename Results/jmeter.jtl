@@ -1,0 +1,17 @@
+2014/03/10 23:26:34.682,8,Get-or-Create-Proxy,200,OK,setUp Thread Group 1-1,text,true,125,8
+2014/03/10 23:26:34.730,8,BeanShell Sampler-Test-Details,200,OK,setUp Thread Group 1-1,text,true,0,0
+2014/03/10 23:26:42.001,2383,BRX-Homepage,200,OK,BRX 1-1,text,true,154043,0
+2014/03/10 23:26:45.043,53,Create-HAR,200,OK,BRX- HAR-upload 2-1,text,true,261993,11
+2014/03/10 23:26:44.579,2704,BRX-Search-Page,200,OK,BRX 1-1,text,true,138239,0
+2014/03/10 23:26:47.371,67,BRX-Event-Details-Page,500,Expected title to be <Tickets on StubHub!>,BRX 1-1,text,false,138731,0
+2014/03/10 23:26:45.114,2668,BRX-Homepage-HAR-Upload,200,OK,BRX- HAR-upload 2-1,text,true,157869,0
+2014/03/10 23:26:47.900,34,Get-Har,200,OK,BRX- HAR-upload 2-1,text,true,169645,8
+2014/03/10 23:26:48.040,1235,Upload-Har,200,OK,BRX- HAR-upload 2-1,text,true,211,1235
+2014/03/10 23:26:49.281,33,Create-HAR,200,OK,BRX- HAR-upload 2-1,text,true,169645,9
+2014/03/10 23:26:49.333,2510,BRX-Search-Page-HAR-Upload,200,OK,BRX- HAR-upload 2-1,text,true,142425,0
+2014/03/10 23:26:51.973,630,Get-Har,200,OK,BRX- HAR-upload 2-1,text,true,206046,605
+2014/03/10 23:26:52.675,990,Upload-Har,200,OK,BRX- HAR-upload 2-1,text,true,211,990
+2014/03/10 23:26:53.666,33,Create-HAR,200,OK,BRX- HAR-upload 2-1,text,true,207753,6
+2014/03/10 23:26:53.719,4034,BRX-Event-Details-Page-HAR-upload,500,Expected title to be <Tickets on StubHub!>,BRX- HAR-upload 2-1,text,false,248945,0
+2014/03/10 23:26:58.497,38,Get-Har,200,OK,BRX- HAR-upload 2-1,text,true,261476,5
+2014/03/10 23:26:58.610,787,Upload-Har,200,OK,BRX- HAR-upload 2-1,text,true,211,787

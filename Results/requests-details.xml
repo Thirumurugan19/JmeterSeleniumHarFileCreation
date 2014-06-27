@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+
+
+
+
+
+
+<sample t="2793" lt="0" ts="1393974508501" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="150267">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2708" lt="0" ts="1393974510028" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-2" dt="text" by="150257">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2668" lt="0" ts="1393974510975" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-3" dt="text" by="151258">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2714" lt="0" ts="1393974511410" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-4" dt="text" by="151103">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2423" lt="0" ts="1393974513082" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-5" dt="text" by="150266">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="0" lt="0" ts="1393974511412" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1393974512839" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-2" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1393974513710" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-3" dt="text" by="0"/>
+<sample t="9669" lt="0" ts="1393974515585" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-5" dt="text" by="270823">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="0" lt="0" ts="1393974514199" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-4" dt="text" by="0"/>
+<sample t="3300" lt="0" ts="1393974522381" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="150972">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2865" lt="0" ts="1393974522868" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-2" dt="text" by="151605">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1569" lt="0" ts="1393974525362" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-5" dt="text" by="150956">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1891" lt="0" ts="1393974525522" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-4" dt="text" by="151796">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1952" lt="0" ts="1393974530499" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-5" dt="text" by="151202">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2407" lt="0" ts="1393974531207" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-4" dt="text" by="150264">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="0" lt="0" ts="1393974524990" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-3" dt="text" by="0"/>
+<sample t="3063" lt="0" ts="1393974532921" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-5" dt="text" by="271642">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2850" lt="0" ts="1393974533693" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-4" dt="text" by="270835">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="8753" lt="0" ts="1393974529006" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-2" dt="text" by="150266">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="8593" lt="0" ts="1393974529203" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="150266">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2564" lt="0" ts="1393974537828" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="270258">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="3002" lt="0" ts="1393974537867" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="270731">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1833" lt="0" ts="1393974540495" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-2" dt="text" by="151448">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1840" lt="0" ts="1393974540989" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="150969">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="0" lt="0" ts="1393974536101" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-5" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1393974536659" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-4" dt="text" by="0"/>
+<sample t="1936" lt="0" ts="1393974546386" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="151203">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2537" lt="0" ts="1393974546171" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-2" dt="text" by="150264">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="1725" lt="0" ts="1393974549717" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-4" dt="text" by="150537">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="3005" lt="0" ts="1393974548794" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="271129">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="3073" lt="0" ts="1393974548777" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="272057">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="3231" lt="0" ts="1393974549686" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-5" dt="text" by="151266">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="1568" lt="0" ts="1393974551982" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="151883">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1955" lt="0" ts="1393974551910" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-2" dt="text" by="151447">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="4093" lt="0" ts="1393974551521" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-4" dt="text" by="272049">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="3066" lt="0" ts="1393974552983" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-5" dt="text" by="272027">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2647" lt="0" ts="1393974555742" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-4" dt="text" by="152594">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2335" lt="0" ts="1393974556165" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-5" dt="text" by="152718">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2399" lt="0" ts="1393974556591" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="151265">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2380" lt="0" ts="1393974557641" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-2" dt="text" by="150251">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2766" lt="0" ts="1393974559061" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="272148">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2558" lt="0" ts="1393974560097" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="271118">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1716" lt="0" ts="1393974562089" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-5" dt="text" by="149702">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="1822" lt="0" ts="1393974561968" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-4" dt="text" by="150191">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="1661" lt="0" ts="1393974562752" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-2" dt="text" by="151429">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2769" lt="0" ts="1393974561989" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="152690">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1903" lt="0" ts="1393974563876" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-5" dt="text" by="270281">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2498" lt="0" ts="1393974564269" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-4" dt="text" by="271220">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1661" lt="0" ts="1393974566263" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-5" dt="text" by="150961">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1492" lt="0" ts="1393974566897" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-4" dt="text" by="150949">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1543" lt="0" ts="1393974567829" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="150694">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2449" lt="0" ts="1393974567515" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-2" dt="text" by="151261">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="3355" lt="0" ts="1393974569465" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="272048">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2920" lt="0" ts="1393974570045" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="271626">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="51477" lt="0" ts="1393974538623" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-3" dt="text" by="151647">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+
+<sample t="2382" lt="0" ts="1393974766949" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="150257">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="1876" lt="0" ts="1393974767332" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-2" dt="text" by="150699">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2331" lt="0" ts="1393974768285" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-3" dt="text" by="150266">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="1771" lt="0" ts="1393974769263" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-4" dt="text" by="149707">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2793" lt="0" ts="1393974769389" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="270723">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2668" lt="0" ts="1393974769690" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="271281">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2223" lt="0" ts="1393974771117" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-4" dt="text" by="270731">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2737" lt="0" ts="1393974770681" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-3" dt="text" by="271105">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2918" lt="0" ts="1393974770855" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-5" dt="text" by="150267">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="1988" lt="0" ts="1393974772269" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="150967">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1478" lt="0" ts="1393974773470" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-4" dt="text" by="150961">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1590" lt="0" ts="1393974773546" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-3" dt="text" by="150961">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2848" lt="0" ts="1393974772451" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-2" dt="text" by="152689">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2679" lt="0" ts="1393974773848" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-5" dt="text" by="271131">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1994" lt="0" ts="1393974776681" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-5" dt="text" by="151596">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2346" lt="0" ts="1393974777814" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="150273">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2028" lt="0" ts="1393974778178" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-3" dt="text" by="150203">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2383" lt="0" ts="1393974778489" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-4" dt="text" by="150265">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2324" lt="0" ts="1393974778852" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-2" dt="text" by="150268">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2331" lt="0" ts="1393974780229" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="270835">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2498" lt="0" ts="1393974780673" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-3" dt="text" by="271114">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2264" lt="0" ts="1393974780932" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-4" dt="text" by="270836">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2284" lt="0" ts="1393974781265" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="271228">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1779" lt="0" ts="1393974782677" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="151444">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1682" lt="0" ts="1393974783297" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-3" dt="text" by="150968">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1606" lt="0" ts="1393974783663" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-2" dt="text" by="151438">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1980" lt="0" ts="1393974783343" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-4" dt="text" by="151446">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1842" lt="0" ts="1393974788070" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="149705">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="1951" lt="0" ts="1393974788510" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-3" dt="text" by="150205">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2558" lt="0" ts="1393974789986" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="271222">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2286" lt="0" ts="1393974790928" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-3" dt="text" by="270362">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1818" lt="0" ts="1393974792679" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="150959">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="12420" lt="0" ts="1393974782389" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-5" dt="text" by="150267">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="1809" lt="0" ts="1393974793361" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-3" dt="text" by="150969">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2897" lt="0" ts="1393974794882" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-5" dt="text" by="271110">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2315" lt="0" ts="1393974797951" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-5" dt="text" by="150976">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2436" lt="0" ts="1393974798048" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="151097">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="1917" lt="0" ts="1393974798690" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-3" dt="text" by="150203">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2782" lt="0" ts="1393974800554" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="271582">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2298" lt="0" ts="1393974801078" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-3" dt="text" by="270749">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1879" lt="0" ts="1393974803501" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-3" dt="text" by="151445">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2345" lt="0" ts="1393974803845" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-5" dt="text" by="150258">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="3621" lt="0" ts="1393974803475" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="153198">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2382" lt="0" ts="1393974806278" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-5" dt="text" by="270753">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1977" lt="0" ts="1393974808793" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-5" dt="text" by="151451">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2364" lt="0" ts="1393974808811" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-3" dt="text" by="150264">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2550" lt="0" ts="1393974810676" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="150259">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2274" lt="0" ts="1393974811249" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-3" dt="text" by="271231">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1769" lt="0" ts="1393974813682" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-3" dt="text" by="150968">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2732" lt="0" ts="1393974813300" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="271233">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2453" lt="0" ts="1393974814589" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-5" dt="text" by="150266">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2439" lt="0" ts="1393974816200" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="150981">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="3088" lt="0" ts="1393974817121" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-5" dt="text" by="271230">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2695" lt="0" ts="1393974820390" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-5" dt="text" by="150978">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2415" lt="0" ts="1393974826701" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-5" dt="text" by="150269">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2549" lt="0" ts="1393974829202" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-5" dt="text" by="271232">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2563" lt="0" ts="1393974831916" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-5" dt="text" by="151780">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="94814" lt="0" ts="1393974788845" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-2" dt="text" by="150639">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="94772" lt="0" ts="1393974789195" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-4" dt="text" by="150647">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2676" lt="0" ts="1393974884046" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-4" dt="text" by="271131">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="3020" lt="0" ts="1393974883738" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="270831">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1689" lt="0" ts="1393974886860" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-4" dt="text" by="150955">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2364" lt="0" ts="1393974886875" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-2" dt="text" by="151784">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2045" lt="0" ts="1393974892119" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-4" dt="text" by="150810">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="1932" lt="0" ts="1393974892808" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-2" dt="text" by="150809">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2632" lt="0" ts="1393974894601" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-4" dt="text" by="272034">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2399" lt="0" ts="1393974895211" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="271636">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1787" lt="0" ts="1393974897721" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-2" dt="text" by="152371">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1963" lt="0" ts="1393974897373" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-4" dt="text" by="152367">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+
+<sample t="1941" lt="0" ts="1393974948170" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="151211">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2722" lt="0" ts="1393974950624" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="272039">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2368" lt="0" ts="1393974953483" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="152285">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+
+<sample t="2446" lt="0" ts="1393975019313" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="151223">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2835" lt="0" ts="1393975021887" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="272155">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2461" lt="0" ts="1393975024856" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="152696">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+
+<sample t="2568" lt="0" ts="1393975105179" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="150269">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2453" lt="0" ts="1393975107861" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="270748">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2067" lt="0" ts="1393975110456" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="151445">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+
+<sample t="2340" lt="0" ts="1393975192209" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="150257">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="1599" lt="0" ts="1393975194617" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="269793">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1378" lt="0" ts="1393975196306" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="150948">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+
+<sample t="2881" lt="0" ts="1393975286156" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="155905">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3113" lt="0" ts="1393975289137" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="421904">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="4553" lt="0" ts="1393975292708" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-1" dt="text" by="140032">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+
+
+
+<sample t="2698" lt="0" ts="1394066355369" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="155113">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3762" lt="0" ts="1394066358248" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="418880">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2306" lt="0" ts="1394066362189" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-1" dt="text" by="136977">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+
+<sample t="2698" lt="0" ts="1394066418394" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158801">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3192" lt="0" ts="1394066421227" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422569">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="40" lt="0" ts="1394066424581" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="422569">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2365" lt="0" ts="1394066428237" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158802">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3151" lt="0" ts="1394066430718" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422568">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="26" lt="0" ts="1394066434051" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="422568">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2533" lt="0" ts="1394066437712" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158804">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3106" lt="0" ts="1394066440369" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422571">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2110" lt="0" ts="1394066443749" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-1" dt="text" by="137456">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2803" lt="0" ts="1394066450321" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158801">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3455" lt="0" ts="1394066453249" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422368">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2244" lt="0" ts="1394066456905" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-1" dt="text" by="137462">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2646" lt="0" ts="1394066463598" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158803">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3394" lt="0" ts="1394066466385" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422378">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="3423" lt="0" ts="1394066470003" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-1" dt="text" by="165954">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+
+<sample t="2646" lt="0" ts="1394066589622" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158803">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="2130" lt="0" ts="1394066592443" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="420932">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="27" lt="0" ts="1394066594966" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="421899">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2618" lt="0" ts="1394066598578" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158804">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3360" lt="0" ts="1394066601321" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422361">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2080" lt="0" ts="1394066604881" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-1" dt="text" by="137370">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2759" lt="0" ts="1394066611362" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158807">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3346" lt="0" ts="1394066614213" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422358">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2938" lt="0" ts="1394066617783" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-1" dt="text" by="165209">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2726" lt="0" ts="1394066624442" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158804">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3813" lt="0" ts="1394066627288" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422365">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="3060" lt="0" ts="1394066631280" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-1" dt="text" by="165209">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2625" lt="0" ts="1394066638098" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158797">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3111" lt="0" ts="1394066640852" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422385">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="45" lt="0" ts="1394066644164" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="422371">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+
+<sample t="2671" lt="0" ts="1394067389297" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158805">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="2663" lt="0" ts="1394067391725" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-2" dt="text" by="158798">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="2073" lt="0" ts="1394067392144" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="420377">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="25" lt="0" ts="1394067394700" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="421347">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2134" lt="0" ts="1394067394520" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="421103">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2630" lt="0" ts="1394067396965" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-2" dt="text" by="165204">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="3046" lt="0" ts="1394067398301" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158804">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3058" lt="0" ts="1394067401447" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422022">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2394" lt="0" ts="1394067403183" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-2" dt="text" by="158803">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="2854" lt="0" ts="1394067404685" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-1" dt="text" by="165208">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="3272" lt="0" ts="1394067405648" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="421824">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2069" lt="0" ts="1394067409129" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-2" dt="text" by="136977">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2743" lt="0" ts="1394067410609" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-1" dt="text" by="158804">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="2769" lt="0" ts="1394067413485" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="421557">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2537" lt="0" ts="1394067415094" s="true" lb="BRX-Homepage-FE" rc="200" tn="BRX 1-2" dt="text" by="158804">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="2012" lt="0" ts="1394067416576" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-1" dt="text" by="136979">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2416" lt="0" ts="1394067417760" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="421949">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1973" lt="0" ts="1394067420547" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-2" dt="text" by="136976">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+
+<sample t="2551" lt="0" ts="1394069427300" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="158793">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="2571" lt="0" ts="1394069429697" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-2" dt="text" by="158806">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="2814" lt="0" ts="1394069430021" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="420957">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="41" lt="0" ts="1394069433220" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="421434">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="3862" lt="0" ts="1394069432362" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="421571">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2056" lt="0" ts="1394069436507" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-2" dt="text" by="136975">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="2632" lt="0" ts="1394069437268" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="158799">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3263" lt="0" ts="1394069440045" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="421442">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2863" lt="0" ts="1394069442115" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-2" dt="text" by="158795">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3073" lt="0" ts="1394069443549" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-1" dt="text" by="165207">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="3349" lt="0" ts="1394069445109" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="421436">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="50" lt="0" ts="1394069448697" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-2" dt="text" by="421422">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2618" lt="0" ts="1394069450314" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="158799">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="2584" lt="0" ts="1394069452035" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-2" dt="text" by="158803">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="2911" lt="0" ts="1394069453070" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="421345">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2625" lt="0" ts="1394069454746" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-2" dt="text" by="421443">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="23" lt="0" ts="1394069457542" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-2" dt="text" by="421443">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2012" lt="0" ts="1394069456301" s="true" lb="BRX-Event-Details-Page" rc="200" tn="BRX 1-1" dt="text" by="137454">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+
+<sample t="1853" lt="0" ts="1394069534445" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="150270">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2592" lt="0" ts="1394069536815" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="229165">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2021" lt="0" ts="1394069539525" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="151196">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1861" lt="0" ts="1394069544608" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="149859">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2362" lt="0" ts="1394069546983" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="229040">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1968" lt="0" ts="1394069549454" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="151194">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+<sample t="1583" lt="0" ts="1394069555002" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="149748">
+  <java.net.URL>http://www.srwe05.com/</java.net.URL>
+</sample>
+<sample t="2583" lt="0" ts="1394069556670" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="229059">
+  <java.net.URL>http://www.srwe05.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1869" lt="0" ts="1394069559365" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="151190">
+  <java.net.URL>http://www.srwe05.com/chelsea-handler-tickets/chelsea-handler-chicago-3-9-2014-4450780/</java.net.URL>
+</sample>
+
+<sample t="2994" lt="0" ts="1394493655450" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="154169">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="1692" lt="0" ts="1394493658602" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="137286">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="4067" lt="0" ts="1394493660347" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="240359">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/</java.net.URL>
+</sample>
+
+<sample t="512" lt="0" ts="1394493907489" s="false" lb="BRX-Homepage" rc="500" tn="BRX 1-1" dt="text" by="2281">
+  <java.net.URL>http://overflow.stubhub.com/</java.net.URL>
+</sample>
+<sample t="89" lt="0" ts="1394493908052" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="2281">
+  <java.net.URL>http://overflow.stubhub.com/</java.net.URL>
+</sample>
+<sample t="90" lt="0" ts="1394493908187" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="2281">
+  <java.net.URL>http://overflow.stubhub.com/</java.net.URL>
+</sample>
+
+<sample t="2593" lt="0" ts="1394493937069" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="157862">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="2263" lt="0" ts="1394493939845" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="141450">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="88" lt="0" ts="1394493942470" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="142428">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+
+<sample t="2383" lt="0" ts="1394494002001" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="154043">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="2704" lt="0" ts="1394494004579" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="138239">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="67" lt="0" ts="1394494007371" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="138731">
+  <java.net.URL>http://www.srwe01.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-03-03;03/03/2014+-+03/09/2014&amp;endDate=2014-03-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+
+<sample t="991" lt="0" ts="1395269777222" s="false" lb="BRX-Homepage" rc="500" tn="BRX 1-1" dt="text" by="128226">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+
+<sample t="1117" lt="0" ts="1395269813757" s="false" lb="BRX-Homepage" rc="500" tn="BRX 1-1" dt="text" by="128226">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+
+<sample t="1115" lt="0" ts="1395269902952" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="128226">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+
+<sample t="1092" lt="0" ts="1395269936890" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="128225">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+<sample t="380" lt="0" ts="1395269938075" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="128145">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+<sample t="386" lt="0" ts="1395269938543" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="128145">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+<sample t="389" lt="0" ts="1395269939014" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="128144">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+<sample t="414" lt="0" ts="1395269939492" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="128143">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+
+<sample t="1141" lt="0" ts="1395270083946" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="128220">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="385" lt="0" ts="1395270085181" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="128132">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="379" lt="0" ts="1395270085669" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="128132">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="366" lt="0" ts="1395270086152" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="128133">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="358" lt="0" ts="1395270086604" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="128133">
+  <java.net.URL>https://m.stubhub.com/</java.net.URL>
+</sample>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="633" lt="0" ts="1395270197296" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75444">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="239" lt="0" ts="1395270198026" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75627">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="212" lt="0" ts="1395270198329" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75629">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="212" lt="0" ts="1395270198596" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75629">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="210" lt="0" ts="1395270198861" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75627">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+
+<sample t="641" lt="0" ts="1395271756533" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="239" lt="0" ts="1395271757364" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="216" lt="0" ts="1395271757753" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="297" lt="0" ts="1395271758112" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="221" lt="0" ts="1395271758544" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="674" lt="0" ts="1395271784125" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="233" lt="0" ts="1395271784967" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="239" lt="0" ts="1395271785342" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="257" lt="0" ts="1395271785732" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="281" lt="0" ts="1395271786150" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="0" lt="0" ts="1395271868159" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395271868533" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395271868872" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395271869227" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395271869584" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="0" lt="0" ts="1395271890464" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395271890836" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395271891187" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395271891532" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395271891893" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="0" lt="0" ts="1395272030622" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272041307" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272051893" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="24" lt="0" ts="1395272084411" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75442">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="11" lt="0" ts="1395272084862" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75632">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="11" lt="0" ts="1395272085290" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75632">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="12" lt="0" ts="1395272085673" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75632">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="14" lt="0" ts="1395272086073" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75633">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+
+<sample t="25" lt="0" ts="1395272145513" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75441">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="13" lt="0" ts="1395272145966" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75631">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="16" lt="0" ts="1395272146393" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75632">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="13" lt="0" ts="1395272146826" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75631">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="13" lt="0" ts="1395272147232" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75630">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="0" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="0" lt="0" ts="1395272719846" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272720226" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272720576" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272720917" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272721249" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="0" lt="0" ts="1395272806949" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272807384" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272807739" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272808096" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272808459" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="0" lt="0" ts="1395272861069" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272861473" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272861829" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272862185" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1395272862567" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="25" lt="0" ts="1395274249176" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75443">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="12" lt="0" ts="1395274249611" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75633">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="12" lt="0" ts="1395274249992" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75633">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="12" lt="0" ts="1395274250385" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75633">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+<sample t="12" lt="0" ts="1395274250815" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="75632">
+  <java.net.URL>https://m.stubhub.com/search</java.net.URL>
+</sample>
+
+<sample t="2432" lt="0" ts="1395688027121" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="154468">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="48" lt="0" ts="1395688029663" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="154468">
+  <java.net.URL>http://www.srwe01.com/</java.net.URL>
+</sample>
+<sample t="3412" lt="0" ts="1395688029795" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="220055">
+  <java.net.URL>http://www.srwe01.com/chelsea-handler-tickets/</java.net.URL>
+</sample>
+
+<sample t="2461" lt="0" ts="1396388138717" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165460">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="62" lt="0" ts="1396388141451" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="165504">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="0" lt="0" ts="1396388141605" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="2727" lt="0" ts="1396388185002" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165526">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="41" lt="0" ts="1396388187829" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="165526">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="0" lt="0" ts="1396388187954" s="false" lb="BRX-Event-Details-Page" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+
+<sample t="2584" lt="0" ts="1396388352502" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165521">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="45" lt="0" ts="1396388355186" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="165521">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+
+<sample t="15722" lt="0" ts="1396388427018" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="163978">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="4992" lt="0" ts="1396388442817" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422248">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+
+<sample t="2402" lt="0" ts="1396388559457" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165515">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="49" lt="0" ts="1396388561990" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="165515">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+
+<sample t="2789" lt="0" ts="1396388585985" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165525">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="5090" lt="0" ts="1396388589429" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422326">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+
+<sample t="2645" lt="0" ts="1396388617916" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165525">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="44" lt="0" ts="1396388620660" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="165525">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+
+<sample t="2635" lt="0" ts="1396388665346" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165528">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="53" lt="0" ts="1396388668067" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="165528">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+
+<sample t="2614" lt="0" ts="1396388775083" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165527">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="37" lt="0" ts="1396388777842" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="165527">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+
+<sample t="2901" lt="0" ts="1396388800520" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165533">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="46" lt="0" ts="1396388803506" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="165533">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+
+<sample t="2718" lt="0" ts="1396388849563" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165516">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="50" lt="0" ts="1396388852363" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="165516">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+
+<sample t="2533" lt="0" ts="1396388874882" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165512">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="50" lt="0" ts="1396388877501" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="165512">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3469" lt="0" ts="1396388877632" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165653">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3534" lt="0" ts="1396388881182" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422438">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="35" lt="0" ts="1396388884929" s="false" lb="BRX-Homepage" rc="500" tn="BRX 1-1" dt="text" by="422424">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3570" lt="0" ts="1396388885239" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422431">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="44" lt="0" ts="1396388889154" s="false" lb="BRX-Homepage" rc="500" tn="BRX 1-1" dt="text" by="422431">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2388" lt="0" ts="1396388889508" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="420885">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="60" lt="0" ts="1396388892487" s="false" lb="BRX-Homepage" rc="500" tn="BRX 1-1" dt="text" by="422336">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2558" lt="0" ts="1396388892955" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422325">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+
+<sample t="2700" lt="0" ts="1396389265069" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165533">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="50" lt="0" ts="1396389267874" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 1-1" dt="text" by="165533">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="1732" lt="0" ts="1396389268008" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="164452">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2780" lt="0" ts="1396389273991" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="421487">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="29" lt="0" ts="1396389277362" s="false" lb="BRX-Homepage" rc="500" tn="BRX 1-1" dt="text" by="422057">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2873" lt="0" ts="1396389277681" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422430">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="45" lt="0" ts="1396389280713" s="false" lb="BRX-Homepage" rc="500" tn="BRX 1-1" dt="text" by="422430">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3119" lt="0" ts="1396389281200" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="422313">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="83" lt="0" ts="1396389284686" s="false" lb="BRX-Homepage" rc="500" tn="BRX 1-1" dt="text" by="0">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="1919" lt="0" ts="1396389285218" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 1-1" dt="text" by="421522">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+
+<sample t="2687" lt="0" ts="1396389352517" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165531">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="40" lt="0" ts="1396389355294" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165531">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3528" lt="0" ts="1396389355451" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165665">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2411" lt="0" ts="1396389359065" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165534">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="1669" lt="0" ts="1396389361580" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165359">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+
+<sample t="2618" lt="0" ts="1396389386768" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165525">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="48" lt="0" ts="1396389389488" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165525">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3771" lt="0" ts="1396389389628" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165661">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2357" lt="0" ts="1396389393508" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165371">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2148" lt="0" ts="1396389395962" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165505">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+
+<sample t="2576" lt="0" ts="1396389415294" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165529">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2920" lt="0" ts="1396389421461" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165518">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2565" lt="0" ts="1396389427968" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165530">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2656" lt="0" ts="1396389433637" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165526">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2643" lt="0" ts="1396389439877" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165525">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+
+<sample t="3001" lt="0" ts="1396389504943" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 2-1" dt="text" by="422704">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="8058" lt="0" ts="1396389505425" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="164088">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2649" lt="0" ts="1396389516573" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165518">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="2833" lt="0" ts="1396389522313" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165525">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="17008" lt="0" ts="1396389511690" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 2-1" dt="text" by="420873">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2476" lt="0" ts="1396389528748" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165526">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3596" lt="0" ts="1396389531879" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 2-1" dt="text" by="422714">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2655" lt="0" ts="1396389534348" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165532">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3520" lt="0" ts="1396389539124" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 2-1" dt="text" by="422682">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="3263" lt="0" ts="1396389546328" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 2-1" dt="text" by="421824">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+
+<sample t="4062" lt="0" ts="1396390208345" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165530">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3616" lt="0" ts="1396390208876" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 2-1" dt="text" by="422967">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2907" lt="0" ts="1396390215512" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165532">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3880" lt="0" ts="1396390216096" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 2-1" dt="text" by="422997">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="1769" lt="0" ts="1396390221481" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165128">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3191" lt="0" ts="1396390223674" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 2-1" dt="text" by="422621">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="2614" lt="0" ts="1396390226814" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165530">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3928" lt="0" ts="1396390230517" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 2-1" dt="text" by="422997">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+<sample t="3046" lt="0" ts="1396390233041" s="true" lb="BRX-Homepage" rc="200" tn="BRX 1-1" dt="text" by="165498">
+  <java.net.URL>http://www.srwe07.com/</java.net.URL>
+</sample>
+<sample t="3345" lt="0" ts="1396390237650" s="true" lb="BRX-Search-Page" rc="200" tn="BRX 2-1" dt="text" by="423006">
+  <java.net.URL>http://www.srwe07.com/search/doSearch?searchStr=tickets&amp;searchMode=event&amp;rows=100&amp;start=0&amp;nS=0&amp;startDate=2014-04-01;04/01/2014+-+04/09/2014&amp;endDate=2014-04-09&amp;ae=2&amp;sp=Date&amp;sd=1</java.net.URL>
+</sample>
+
+<sample t="0" lt="0" ts="1396390295719" s="false" lb="BRX-Homepage" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1396390295719" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 2-1" dt="text" by="0"/>
+
+<sample t="0" lt="0" ts="1396390808617" s="false" lb="BRX-Homepage" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1396390808619" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 2-1" dt="text" by="0"/>
+
+<sample t="0" lt="0" ts="1396390833173" s="false" lb="BRX-Homepage" rc="500" tn="BRX 1-1" dt="text" by="0"/>
+<sample t="0" lt="0" ts="1396390833174" s="false" lb="BRX-Search-Page" rc="500" tn="BRX 2-1" dt="text" by="0"/>
+
+</testResults>

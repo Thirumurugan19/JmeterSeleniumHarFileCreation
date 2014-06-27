@@ -1,0 +1,24 @@
+new york
+San Francisco
+arizona
+atlanta
+baltimore
+boston
+chicago
+cincinnati
+cleveland
+colorado
+detroit
+houston
+kansas
+los angeles
+miami
+milwaukee
+oakland
+minnesota
+philadelphia
+pittsburgh
+san diego
+seattle
+toronto
+washington

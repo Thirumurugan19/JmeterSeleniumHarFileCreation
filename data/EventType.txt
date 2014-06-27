@@ -1,0 +1,6 @@
+/comedy-tickets/
+/baseball-tickets/
+/basketball-tickets/
+/country-music-tickets/
+/dance-music-tickets/
+/blues-rb-jazz-music-tickets/
